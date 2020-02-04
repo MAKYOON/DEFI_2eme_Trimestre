@@ -1,0 +1,6 @@
+room
+book
+scroll
+east
+west
+south

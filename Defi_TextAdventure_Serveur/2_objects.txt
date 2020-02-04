@@ -1,0 +1,4 @@
+west
+room
+skeleton
+scroll

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1575454340 source:c:\ludus\f2\defis\defi_textadventure\defi_textadventure\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
+1575454403 source:c:\ludus\f2\defis\defi_textadventure\defi_textadventure_client\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
+1580291928 source:c:\ludus\f2\defis\defi_textadventure\defi_textadventure_serveur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<string.h>
+
+1580395234 source:c:\ludus\f2\defi_textadventure_serveur\defi_textadventure\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<string.h>
+
+1579782376 source:c:\ludus\f2\defis\defi_textadventure\defi_textadventure_serveur\defi_textadventure\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<string.h>
+
+1580396022 source:c:\ludus\f2\defi_textadventure_serveur\game.c
+	"game.h"
+
+1580395965 c:\ludus\f2\defi_textadventure_serveur\game.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

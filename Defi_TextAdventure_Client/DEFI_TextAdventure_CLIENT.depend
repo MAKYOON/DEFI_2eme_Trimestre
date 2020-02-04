@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1575454340 source:c:\ludus\f2\defis\defi_textadventure\defi_textadventure\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
+1580290126 source:c:\ludus\f2\defis\defi_textadventure\defi_textadventure_client\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
+1580395414 source:c:\ludus\f2\defi_textadventure_client\defi_textadventure\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
+1579690892 source:c:\ludus\f2\defis\defi_textadventure\defi_textadventure_client\defi_textadventure\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
+1580846451 source:c:\ludus\f2\defi_textadventure_client\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
